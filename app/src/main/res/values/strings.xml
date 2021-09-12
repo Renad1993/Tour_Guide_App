@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_gardens">Gardens</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_historical_site">Historical Site</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="متحف_اثار_أم_قيس">متحف اثار أم قيس</string>
+    <string name="مفتوح_على_مدار_24_ساعه">مفتوح على مدار 24 ساعه</string>
+    <string name="صوره_من_داخل_متحف_أم_قيس">صوره من داخل متحف أم قيس</string>
+    <string name="حديقة_أم_قيس">حديقة أم قيس</string>
+    <string name="إستراحة_أثينا_الشرق">إستراحة أثينا الشرق</string>
+    <string name="إستراحة_ومتنزه_ريف_أم_قيس">إستراحة ومتنزه ريف أم قيس</string>
+    <string name="اثار_أم_قيس">اثار أم قيس</string>
+    <string name="المسرحين_الشمالي_والغربي_في_أم_قيس">المسرحين الشمالي والغربي في أم قيس</string>
+    <string name="مطعم_shine_cottage">مطعم shine cottage</string>
+    <string name="مفتوح_حتى_الساعه_الثانيه_صباحا">مفتوح حتى الساعه الثانيه صباحا</string>
+    <string name="مقهى_ومطعم_ملتقى_أم_قيس">مقهى ومطعم ملتقى أم قيس</string>
+    <string name="umm_Qies_Rest_House">umm Qies Rest House</string>
+</resources>
